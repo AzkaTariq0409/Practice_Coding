@@ -1,0 +1,2 @@
+input=D:\FINAL YEAR PROJECT\Practice_Coding\Input
+output=D:\FINAL YEAR PROJECT\Practice_Coding\Output
